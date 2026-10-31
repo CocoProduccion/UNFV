@@ -1,0 +1,4 @@
+codigo,Nombre,Cantidad,precio,total
+P001,Sulfato de Aluminio,10,15.5,155.0
+P003,cloruro de potasio,20,36.5,730.0
+P004,Amoniaco,10,15.5,155.0

@@ -1,0 +1,16 @@
+[
+  {
+    "codigo": "P001",
+    "Nombre": "Sulfato Ferrico",
+    "Cantidad": 20,
+    "precio": 15.5,
+    "total": 310.0
+  },
+  {
+    "codigo": "P005",
+    "Nombre": "Nitrato de Potasio",
+    "Cantidad": 20,
+    "precio": 12.5,
+    "total": 250.0
+  }
+]
